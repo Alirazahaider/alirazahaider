@@ -4,7 +4,7 @@ Frontend Engineer specialized in Nextjs & Wordpress.
 I love building modern web applications and sharing my knowledge with the community.
 
 [![Email](https://img.shields.io/badge/-Email-0e5255?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicodespace@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliraza-online)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirazaweb)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0e5255?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alicodez.vercel.app/)
 
 ----------------------
